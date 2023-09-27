@@ -1,0 +1,20 @@
+I'm delighted to introduce myself to my new colleagues. My name is Valeria, and I'm thrilled to be joining the team as a backend developer.
+
+I bring with me a unique background that has shaped my journey. I was born in the enchanting city of Saint-Petersburg, where art and history are woven into the very fabric of daily life. Afterward, my path led me to Sweden, and I've had the privilege of calling Uppsala my home for the past 13 years. The contrast between the grandeur of Saint-Petersburg and the tranquil beauty of Uppsala has been a source of inspiration in both my personal and professional life.
+
+Intriguingly, my journey began in a different direction—my first degree was in media and communication. It was during this time that I developed a deep appreciation for the power of storytelling and the ways in which technology could enhance it. This realization eventually led me to pivot my career toward information technology, where I could use my creative skills to build innovative solutions.
+
+As a backend developer, I find immense satisfaction in crafting the invisible backbone of digital applications, ensuring they run smoothly and efficiently. It's a bit like the hidden brushstrokes that give life to a beautiful painting, connecting all the elements seamlessly.
+
+Beyond the world of code and algorithms, I have a diverse range of interests. I'm an avid reader and have a particular fondness for the works of John Fawles, Stephen King, and Neil Gaiman. Their ability to weave intricate tales and transport readers to other worlds has always captivated me. Additionally, I'm a devoted fan of the magical world of Harry Potter, which has been a constant source of wonder and inspiration.
+
+I also have a passion for exploring new places. Traveling is one of my greatest joys, and my favorite destinations include the vibrant cities of London, Paris, and Barcelona. Each of these cities offers a unique blend of culture, history, and art that never ceases to amaze me.
+
+On a lighter note, I have a penchant for horror movies and mysteries. The thrill of a well-crafted suspense story or a bone-chilling horror film has always been a favorite pastime of mine, adding a sense of excitement to my downtime.
+
+I'm truly excited to be a part of this team and to learn from all of you. I believe that our diverse backgrounds and interests can only enrich our collaborative efforts. Feel free to reach out and share your own passions and experiences—I'm always up for a good conversation about art, technology, literature, or anything else that sparks our curiosity.
+
+Here's to a fantastic journey together as we create, innovate, and make the most of our unique talents and interests.
+
+Warm regards,
+Valeria
